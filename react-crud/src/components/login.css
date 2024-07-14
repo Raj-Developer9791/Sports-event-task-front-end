@@ -1,0 +1,20 @@
+.login1{
+    margin-top: 100px;
+    margin-left: 430px;
+    position: absolute;
+    width: 500px;  
+}
+.login2{
+    margin-left: 170px;
+}
+.login3{
+    background-size: 100% 100%;
+    height: 800px;
+    background-attachment: fixed;
+}
+.login4{
+    background-color: rgba(255, 255, 255, 0.701);
+    color: rgb(34, 24, 107);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 50px;
+}

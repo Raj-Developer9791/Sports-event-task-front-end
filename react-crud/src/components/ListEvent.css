@@ -1,0 +1,73 @@
+.mainimg{
+    background-size: 100% 100%;
+    height: 2500px;
+    padding-left: 0px;
+    background-attachment: fixed;
+    padding-top: 50px;
+}
+.imgsize1{
+    height: 50px;
+    width: 60px;
+    background-size: 100%;
+    margin:10px;
+}
+.fontstyle{
+    font-style: italic;
+}
+.btnmargin{
+    margin-top: 30px;
+}
+.event2{
+  /* background-color: rgba(247, 247, 250, 0.671); */
+  height: 1000px;
+}
+.e1{
+  float: left;
+  height: 330px;
+  width: 350px;
+  border-radius: 20px;
+  padding-right: 10px;
+  /* background-color: rgba(255, 255, 255, 0.866); */
+}
+.e2{
+  background-image: 100% 100%;
+  height: 80px;
+  width: 80px; 
+  /* /* padding: 0px 0px 0px 30px; */
+  margin-left: 30px;
+  margin-top: 20px;
+  
+}
+.e3{
+  background-image: 100% 100%;
+  height: 120px;
+  width: 70px;
+  padding: 50px 0px 0px 0px;
+  
+}
+.e4{
+ padding-left: 50px;
+}
+.e5{
+  font-size: 13px;
+  font-weight: bold;
+}
+.e6{
+  font-size: 14px;
+  /* font-weight: bold; */
+}
+.e7{
+  background-color: rgb(6, 29, 89) ;
+  color: white;
+  border: none;
+}
+:hover.btn{
+  background-color: rgb(236, 53, 8);
+  color: white;
+}
+.e8{
+  box-shadow:rgba(0, 0, 0, 0.578);
+}
+:hover.e8{
+  box-shadow: 10px 4px 10px 0 rgba(0, 0, 0, 0.485), 0 6px 20px 0 rgba(0, 0, 0, 0.781);
+}
